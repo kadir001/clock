@@ -1,2 +1,2 @@
 # clock
-clock project
+simple clock project - RGB style
