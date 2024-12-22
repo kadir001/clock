@@ -1,3 +1,3 @@
 # clock
 simple clock project - RGB style
-http://github.io/kadir001/clock/
+http://kadir001.github.io/clock/
